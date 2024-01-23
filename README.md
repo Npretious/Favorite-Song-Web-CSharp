@@ -1,5 +1,5 @@
 # README
-### This repository holds a favorite song website.
+### This repository holds a favorite song webpage program built in C#, with Visual Studio 2019.
 
 ## Projects
 ### - Favorite Song Website
